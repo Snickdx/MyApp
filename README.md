@@ -1,3 +1,2 @@
-# angular-acdr7r
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-acdr7r)
+# My App
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/RaeanneRamharrack/MyApp) 
